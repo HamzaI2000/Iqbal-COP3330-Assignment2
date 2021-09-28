@@ -1,0 +1,3 @@
+<build>
+    <testSourceDirectory>src/new-test/test</testSourceDirectory>
+</build>
